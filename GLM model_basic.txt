@@ -1,0 +1,36 @@
+Linear Reg
+Polynomial Reg
+
+L1,l2 Regularization
+
+The least-square fit, model
+
+Table :State ,District,season, year ,area ,production,yield
+
+q-q graph for linearity (4 graphs)
+
+graph :y(crop),x(prod or yield)
+graph :y(dis),x(prod or yield)
+graph :y(prod or yield),x(time)   (agg of crops one line), many lines
+
+correlation b/w target and independent variable
+
+
+Descrptive stats
+The order of highest yield agriculture crops are Sugar cane, rice, Cotton, Ground Nut and Maize, Coconut, Banana and Dry Chillies etc.
+
+The districts with high yield in Andhra Pradesh state are West Godavari, Krishna, East Godavari, etc
+
+
+The conditions associated
+with model include, 1. Linearity, 2. Nearly normal
+residuals and 3. Constant variability.
+
+
+Residual = Observed value – Predicted value e = y – y
+Compute the Residual Sum of Squares and Obtain the R2
+
+Add season
+add kharif ,rabi diff csv
+run for last 7 yrs
+
